@@ -1,5 +1,5 @@
 No módulo 1 do bootcamp foi apresentado as disciplinas de lógica de programação e introdução ao Git e Github, porém
-deixarei registrado apenas a de Gir e Github, pois foi a mais importante e com conteúdos que eu não havia visto
+deixarei registrado apenas a de Git e Github, pois foi a mais importante e com conteúdos que eu não havia visto
 (não desmerecendo a de Lógica, ela também foi ótima!!).
 
 Alguns conteúdos abordados nos vídeo-aulas de Git e Github:
@@ -11,6 +11,7 @@ Alguns conteúdos abordados nos vídeo-aulas de Git e Github:
 - comandos Git( git add, git config --list, git init, git remote add origin, entre outros!)
 
 Neste pequeno curso consegui entender um pouco mais do que seria o Git, Github e obter prática com estes!
+Além disso, consegui testar os conhecimentos com um teste no final do curso.
 
 obs: esse repositório foi o desafio-teste do fim do módulo :)
 
